@@ -5,7 +5,7 @@ namespace LogicLibrary
 {
     public static class InputData
     {
-        public static  int test;
+        
         public static readonly string rootFolder = @"C:\Users\Danylo\source\repos\OOProjectWF\";
         public static readonly string textFile = @"C:\Users\Danylo\source\repos\OOProjectWF\drivers.txt";
         public static void inputDrivers(ref List<Driver> drivers)
